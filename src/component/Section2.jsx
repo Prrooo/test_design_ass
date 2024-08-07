@@ -89,7 +89,7 @@ const Section2 = () => {
               >
                 <path d="M21 20C21 20.5523 20.5523 21 20 21H4C3.44772 21 3 20.5523 3 20V9.48907C3 9.18048 3.14247 8.88917 3.38606 8.69972L11.3861 2.47749C11.7472 2.19663 12.2528 2.19663 12.6139 2.47749L20.6139 8.69972C20.8575 8.88917 21 9.18048 21 9.48907V20Z"></path>
               </svg>
-              <button className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</button>
+              <div className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</div>
             </div>
             <div className="px-[2vw] flex flex-col justify-between py-[0.5vw] bg-gray-200 rounded-md">
               <p className="text-center">Medium Home</p>
@@ -101,7 +101,7 @@ const Section2 = () => {
               >
                 <path d="M21 20C21 20.5523 20.5523 21 20 21H4C3.44772 21 3 20.5523 3 20V9.48907C3 9.18048 3.14247 8.88917 3.38606 8.69972L11.3861 2.47749C11.7472 2.19663 12.2528 2.19663 12.6139 2.47749L20.6139 8.69972C20.8575 8.88917 21 9.18048 21 9.48907V20Z"></path>
               </svg>
-              <button className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</button>
+              <div className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</div>
             </div>
             <div className="px-[2vw] flex flex-col justify-between py-[0.5vw] bg-gray-200 rounded-md">
               <p className="text-center">Large Home</p>
@@ -113,7 +113,7 @@ const Section2 = () => {
               >
                 <path d="M21 20C21 20.5523 20.5523 21 20 21H4C3.44772 21 3 20.5523 3 20V9.48907C3 9.18048 3.14247 8.88917 3.38606 8.69972L11.3861 2.47749C11.7472 2.19663 12.2528 2.19663 12.6139 2.47749L20.6139 8.69972C20.8575 8.88917 21 9.18048 21 9.48907V20Z"></path>
               </svg>
-              <button className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</button>
+              <div className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</div>
             </div>
             <div className="px-[2vw] flex flex-col justify-between py-[0.5vw] bg-gray-200 rounded-md">
               <p className="text-center" >XL Home</p>
@@ -125,7 +125,7 @@ const Section2 = () => {
               >
                 <path d="M21 20C21 20.5523 20.5523 21 20 21H4C3.44772 21 3 20.5523 3 20V9.48907C3 9.18048 3.14247 8.88917 3.38606 8.69972L11.3861 2.47749C11.7472 2.19663 12.2528 2.19663 12.6139 2.47749L20.6139 8.69972C20.8575 8.88917 21 9.18048 21 9.48907V20Z"></path>
               </svg>
-              <button className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</button>
+              <div className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</div>
             </div>
             <div className="px-[2vw] flex flex-col justify-between py-[0.5vw] bg-gray-200 rounded-md">
               <p className="text-center">XXL Home</p>
@@ -137,7 +137,7 @@ const Section2 = () => {
               >
                 <path d="M21 20C21 20.5523 20.5523 21 20 21H4C3.44772 21 3 20.5523 3 20V9.48907C3 9.18048 3.14247 8.88917 3.38606 8.69972L11.3861 2.47749C11.7472 2.19663 12.2528 2.19663 12.6139 2.47749L20.6139 8.69972C20.8575 8.88917 21 9.18048 21 9.48907V20Z"></path>
               </svg>
-              <button className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</button>
+              <div className="px-[1vw] py-[0.3vw] bg-gray-300 rounded-md my-[0.3vw]">Select</div>
             </div>
             
           </div>
